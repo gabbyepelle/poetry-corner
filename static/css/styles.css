@@ -1,0 +1,36 @@
+
+
+.container-fluid{
+text-align: center;
+padding-bottom: 20px;
+font-family: 'Roboto Slab', serif;
+
+}
+
+.header{
+color: #A0001C;
+}
+
+h1{
+font-size: 12em;
+padding-top: 10px;
+font-family: 'Tangerine', cursive;
+}
+h3{
+padding-bottom: 10px;
+}
+a{
+color:#A0001C;
+}
+.poem{
+font-family: 'Roboto Slab', serif;
+}
+
+.works{
+padding-top: 20px;
+}
+
+.search-heading{
+font-family: 'Roboto Slab', serif;
+color: #A0001C;
+}
